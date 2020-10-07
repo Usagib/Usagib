@@ -1,4 +1,4 @@
-[![Header](https://usagib.surge.sh/homeimg.png "Header")](https://usagib.surge.sh/)
+[![Header](/githubprofile.png "Header")](https://usagib.surge.sh/)
 ### Hello! My name is Eduardo, what's yours?
 
 <!--
