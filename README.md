@@ -12,5 +12,5 @@ I Like: Animation, Comics, Videogames, Board Games and Coding
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Usagib&theme=dark&hide_border=true&background=1d1f21&stroke=2bbc8a&ring=2bbc8a&fire=2bbc8a&currStreakNum=ffffff&sideNums=c9cacc&currStreakLabel=2bbc8a&sideLabels=c9cacc&dates=c9cacc" alt="Usagi's GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Usagib&theme=dark&ring=2bbc8a&fire=2bbc8a&currStreakNum=ffffff&sideNums=c9cacc&currStreakLabel=2bbc8a&sideLabels=c9cacc&dates=c9cacc&background=1d1f21&hide_border=true" alt="Usagi's GitHub Streak" />
 </a>
